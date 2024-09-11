@@ -1,0 +1,7 @@
+django==4.2.12
+psycopg2
+django-crispy-forms
+crispy-bootstrap5
+pillow
+gunicorn==20.1.0
+django-environ
